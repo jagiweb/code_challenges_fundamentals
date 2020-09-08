@@ -2,4 +2,6 @@
 
 def no_space(x)
     x.split(" ").join("")
+    # best solution
+    # x.delete(' ')
 end
